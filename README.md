@@ -9,6 +9,10 @@ The tools include the networking client and server side software, and a few gene
 ### HTTP
 ### HTTPS
 ### SMTP
+
+* `send_text_msg.py`
+* `send_mpart_msg.py`
+
 ### POP3
 ### FTP
 ### DNS
