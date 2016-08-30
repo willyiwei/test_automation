@@ -12,6 +12,7 @@ The tools include the networking client and server side software, and a few gene
 
 * `send_text_msg.py`
 * `send_mpart_msg.py`
+* `send_eml.py`
 
 ### POP3
 ### FTP
